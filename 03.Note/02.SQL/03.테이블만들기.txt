@@ -149,3 +149,4 @@ MODIFY COLUMN `컬럼명` 데이터형;
 ALTER TABLE `friends`
 MODIFY COLUMN `fname` varchar(100);
 
+
